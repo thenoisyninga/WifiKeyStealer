@@ -25,7 +25,7 @@ for wifiName in wifiList:
 
 print(wifiCredentials)
 
-file = open('sherrinford', 'w')
+file = open('sysinfo', 'w')
 x = ''
 for i in wifiCredentials:
     x += "Wifi Name: " + i[0] + "\n"
