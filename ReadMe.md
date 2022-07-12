@@ -1,3 +1,4 @@
+# About
 A basic python script that scans and records wifi passwords on a windows computer and then writes them to a file.
 As of now, it completely bypasses windows defender. 
 
