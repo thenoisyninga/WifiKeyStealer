@@ -5,3 +5,4 @@ As of now, it completely bypasses windows defender.
 ## Usage
 Best use case is to have it on a removavble drive, run the executable and wait about 5 to 10 seconds for a file named 'sherrinford' to be made in the same folder as the executable, then plug it out.
 
+This generated file can be open via any text editor to see a list of Wifi SSIDs and their keys
